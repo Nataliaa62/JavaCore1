@@ -7,9 +7,9 @@ public class RunClass {
     public static void main(String[] args) {
 
         // создаем экз.класса Игроки
-        Players player1 = new Players("Максим", 300, 2, true);
+        Players player1 = new Players("Максим", 50, 2, true);
         Players player2 = new Players("Елена", 300, 2, true);
-        Players player3 = new Players("Семен", 230, 1, true);
+        Players player3 = new Players("Семен", 30, 1, true);
         Players player4 = new Players("Артур", 400, 2, false);
 
         // создаем массив из игроков
